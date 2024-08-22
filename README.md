@@ -1,5 +1,6 @@
 # Daikibo-Project
-## Task1 : Combine code into a unified format using Python
+## Task1:(Coding) Create an algorithm to unify 2 different data models.
+Combine code into a unified format using Python
 ### Here is the background information on task 1
 We have signed a new account - Daikibo Industrials, a global leader in the manufacturing of heavy machinery, founded and headquartered in Tokyo, Japan. They needed assistance with a variety of problems and were impressed to find out Deloitte could help in all verticals.
 
@@ -7,10 +8,10 @@ Daikibo is in the process of integrating IIoT (Industrial Internet-of-Things) de
 
 
 Took the following steps to complete the task:
-
 - Created an account at repl.it.
 - Fork this project into my workspace.
 - Get acquainted with the 2 data formats by exploring the files (hint: it's the same message, represented in 2 different formats):
+
 data-1.json
 ![data1](https://github.com/user-attachments/assets/f79d9825-c20f-47a1-9ad7-44ea57e784b7)
 
@@ -31,7 +32,8 @@ data-2.json
 ![result](https://github.com/user-attachments/assets/6c687216-5ca9-4b31-9cb2-c3be0b6d4808)
 
 
-## Task 2: Analyze the clients data by creating a dashboard using Tableau
+## Task 2: (Data Analysis) Build a dashboard to explore the client's telemetry data.
+Analyze the clients data by creating a dashboard using Tableau
 ### Background Information on Task2
 Having your data unification algorithm, Daikibo's tech team has converted all telemetry data collected from the 4 factories of the company:
 
@@ -58,6 +60,42 @@ Steps to solving the task
 - Select the factory with the most down time (click on its bar), make a screenshot of the dashboard and upload it as a submission for this task.
   ![Screenshot (96)](https://github.com/user-attachments/assets/e8f9986c-5524-4a24-982c-80dbe7a3f7a3)
 
-## Tsk 3: Write a proposal for creating a dashboard 
+## Task 3: (Development) Prepare a Software Development Proposal.
+Write a proposal for creating a dashboard 
 ### Background Information on Task 3
 Analyzing offline data is great, but having a real-time overview of processes and smart alerts when things break is even better. Our client would like us to build a real-time manufacturing status dashboard. The first task of this process is drafting a development proposal.
+
+## Task 4 :(Cyber Security) Identify the security issue which led to a leak of private company information.
+Help a client determine the source of a data breach and Answer questions to identify suspicious user activity.
+
+
+### Background Information on Task 4
+A big news publication has revealed sensitive private information of Daikibo Industrials' – a production problem has caused their assembly lines to stop, threatening the smooth operation of supply chains relying on Daikibo’s products. The client suspects the security of their new status board may have been breached.
+
+![q](https://github.com/user-attachments/assets/db99c8b7-3316-4486-b784-8841e557e446)
+
+![Screenshot (97)](https://github.com/user-attachments/assets/e0abff29-1806-454d-9237-96e32d1dbd4b)
+
+
+## Task 5:(Forensic Technology) Help my team to complete an investigation into unfair pay.
+Help my team to complete an investigation into unfair pay by Adding a column to classify data in an Excel sheet.
+### Background Information on the Task
+After a worrisome number of internal complaints on gender inequality (in terms of pay), Daikibo Industrials wants us to help them investigate.
+The Forensic Tech team has built an algorithm to quantify “level of gender pay equality” for most/all job roles within the company, in all company locations. Our Forensics lead thinks it will be a great welcoming task for you to finish the job.
+
+After successfully dowloaded the dataset(Equality Table.xlsx) containing 3 columns:
+- Factory
+- Job Role
+- Equality Score (integer; ranging between -26 to 4)
+
+Here is my final task:
+Created a 4th column (Equality class), classifying the equality score in those 3 types:
+Fair (+-10)
+Unfair (<-10 AND >10)
+Highly Discriminative (<-20 AND >20)
+![task5](https://github.com/user-attachments/assets/fc363f4d-1564-4640-8141-ca120c104ec1)
+
+And here is my certificate
+[Deloitte Australia_certificate.pdf](https://github.com/user-attachments/files/16711003/Deloitte.Australia_certificate.pdf)
+
+
